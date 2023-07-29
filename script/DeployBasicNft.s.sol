@@ -16,7 +16,6 @@ contract DeployBasicNft is Script {
         vm.stopBroadcast();
 
         return basicNft;
-fg
 
     }
 
