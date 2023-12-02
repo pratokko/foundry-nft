@@ -32,3 +32,7 @@ Ny44LTMuMiA4LjEtNy40IDMuNy00OS41IDQ1LjMtODguNiA5NS44LTg4LjZzOTIgMzkuMSA5NS44
 IDg4LjZjLjMgNC4yIDMuOSA3LjQgOC4xIDcuNEg2NjRhOCA4IDAgMCAwIDgtOC40QzY2Ny42IDYw
 MC4zIDU5Ny41IDUzMyA1MTIgNTMzem0xMjgtMTEyYTQ4IDQ4IDAgMSAwIDk2IDAgNDggNDggMCAx
 IDAtOTYgMHoiLz4KPC9zdmc+
+
+
+This NFT smart contract is basically used to that based on the price of eth you can either see a sad or happy svg. When the price is high you see a happy svg and when the eth is down to below $2000 the sad svg can show,
+that is achieved by chainlink oracle which is used to give accurate prices  in real time to see how the svg NFTs look like you can copy the link and post to the browser then you'll see the how the NFTs will look like.
